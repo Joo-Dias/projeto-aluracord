@@ -4,9 +4,6 @@ O Aluracord é um chat inspirado no Discord, com suporte para stickers! Feito na
 
 <img src="github/aluracord.gif" alt="Aluracord Gif"/>
 
-## 🚀 Link para teste
-- [Link](https://projeto-aluracord.vercel.app/)
-
 ## ⚡ Tecnologias usadas
 - [React.js](https://pt-br.reactjs.org/)
 - [Next.js](https://nextjs.org/)
